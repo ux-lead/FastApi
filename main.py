@@ -11,6 +11,6 @@ async def speed():
 async def speed():
     return {"user": {
         "nome": "Renato",
-        "CPF": "289.652.448.70"
+        "CPF": ""
         }
         }
